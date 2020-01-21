@@ -21,6 +21,9 @@ inventory/*
 !inventory/sample
 inventory/*/artifacts/
 
+!inventory/mycluster
+inventory/mycluster/credentials
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
